@@ -1,8 +1,7 @@
 # created by virtualenv automatically
-/Lib/
-/Scripts/
-/pyvenv.cfg
-/Lesson4.md.bak
-/Задания на 3 урок .md.bak
-/Задания на 3 урок .txt
-/Infinity_War.md.bak
+Lib/
+Scripts/
+pyvenv.cfg
+*.bak
+Задания на 3 урок .txt
+
